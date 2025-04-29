@@ -16,8 +16,6 @@ A basic calculator built using HTML, CSS, and JavaScript. This calculator allows
 
 ---
 
-## 📁 Project Structure
-
 ```
 calculator/
 │
