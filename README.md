@@ -1,1 +1,5 @@
-Using calculator with js
+#Calculator
+##Using:
+ +html 
+ +css 
+ +js
