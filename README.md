@@ -69,5 +69,3 @@ Your Name
 🔗 [GitHub Profile](https://github.com/JimmyZghendy)
 
 ---
-
-Let me know if you want to add screenshots, animations, or deploy it on GitHub Pages — I can help with that too!
