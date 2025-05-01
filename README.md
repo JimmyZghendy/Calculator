@@ -11,19 +11,8 @@ A basic calculator built using HTML, CSS, and JavaScript. This calculator allows
   - Subtraction `-`
   - Multiplication `×`
   - Division `÷`
-- Clear (AC) functionality
+- Clear (C) functionality
 - Keyboard input support
-
----
-
-```
-calculator/
-│
-├── index.html       # Main HTML structure
-├── style.css        # Styling and layout
-├── script.js        # Logic and interactivity
-└── README.md        # This file
-```
 
 ---
 
